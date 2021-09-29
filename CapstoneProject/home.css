@@ -1,0 +1,23 @@
+/* For All  */
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgba(237, 189, 238, 0.719);
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style-type:none;
+    padding:7px 10px;
+    margin: 9px 12px;
+}
+ul li img{
+    width: 100px;
+    height: 70px;
+}
+ li a{
+    list-style-type: none;
+}
