@@ -1,6 +1,1 @@
-"# github_guide" 
-"# github_guide" 
-"# github_guide" 
-"# github_guide" 
-"# github_guide" 
-"# github_guide" 
+Capstone Project
